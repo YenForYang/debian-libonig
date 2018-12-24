@@ -1,0 +1,7 @@
+4f505b518833b256f462e42f08d84702  usr/include/oniggnu.h
+fc4d51331f8355f766d982b7db7f5d44  usr/include/onigposix.h
+3f643287c121cc9f56b1a4c96794c0fb  usr/include/oniguruma.h
+1669207f8e44b77d7249bdb2aa5ed17a  usr/lib/x86_64-linux-gnu/pkgconfig/oniguruma.pc
+c0aa6889c3c7061503cf9644b8004270  usr/share/doc/libonig-dev/changelog.Debian.gz
+0ab80d1e61de9fb7fcb1bbda788f2bd3  usr/share/doc/libonig-dev/changelog.gz
+fdf2a2f213c3ebef8c723faf31d232ce  usr/share/doc/libonig-dev/copyright

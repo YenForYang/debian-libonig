@@ -1,0 +1,13 @@
+Package: libonig5-dbgsym
+Source: libonig
+Version: 6.9.1-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Jörg Frings-Fürst <debian@jff.email>
+Installed-Size: 365
+Depends: libonig5 (= 6.9.1-1)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for libonig5
+Build-Ids: 4cbe899cc7fff555eee381e8ff9454e80e67442b
